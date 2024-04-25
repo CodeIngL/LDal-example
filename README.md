@@ -2,7 +2,10 @@
 
 simple-dal提供LDal框架下的简单的spring以及springboot例子。
 
-[演示视频地址](https://www.bilibili.com/video/BV1Lb421Y7Dx/?vd_source=b57fab14c9be2bc806bb05ba62379da1)
+- [LDal-example示例](https://www.bilibili.com/video/BV1Lt421c79i/?spm_id_from=333.999.list.card_archive.click&vd_source=b57fab14c9be2bc806bb05ba62379da1)
+- [LDAL和mybaits-starter的相互改造示例](https://www.bilibili.com/video/BV1FT421C7gB/?spm_id_from=333.999.list.card_archive.click&vd_source=b57fab14c9be2bc806bb05ba62379da1)
+- [Agent方式接入LDal实现0成本](https://www.bilibili.com/video/BV1Lb421Y7Dx/?vd_source=b57fab14c9be2bc806bb05ba62379da1)
+
        
 分别是
 
