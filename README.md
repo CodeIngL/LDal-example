@@ -17,7 +17,9 @@ simple-dal提供LDal框架下的简单的spring以及springboot例子。
 
 ## LDal是什么
 
-LDal是一个基于mybaits框架，支持业务方无风险的引入其他同构以及异构数据库，并帮助迁移数据，验证性能，同时100%保证异构数据库之间最终一致性
+LDal是一个orm框架,支持mybaits,ibaits,mybaits plus,tkmybatis。生产上帮助金融企业完成100%的去Oracle
+
+支持业务方无风险的引入其他同构以及异构数据库，并帮助迁移数据，验证性能，同时100%保证异构数据库之间最终一致性
 
 特别适合金融行业核心业务引入信创数据库:tidb,oceanbase,达梦其他等等以及去Oracle
 
