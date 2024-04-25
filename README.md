@@ -2,6 +2,8 @@
 
 simple-dal提供LDal框架下的简单的spring以及springboot例子。
 
+[演示视频地址](https://www.bilibili.com/video/BV1Lb421Y7Dx/?vd_source=b57fab14c9be2bc806bb05ba62379da1)
+       
 分别是
 
 1. 双写
